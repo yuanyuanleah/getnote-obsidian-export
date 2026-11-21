@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.obsidian/
+*.jsonl
+*.zip
+/Get笔记导入/

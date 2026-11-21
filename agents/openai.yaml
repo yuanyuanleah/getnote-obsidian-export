@@ -1,0 +1,4 @@
+interface:
+  display_name: "Get 笔记导入 Obsidian"
+  short_description: "按指定月份整理 Get 普通笔记，或增量导入订阅博主的完整逐字稿"
+  default_prompt: "用 $getnote-obsidian 开始，给我看两个入口。"
